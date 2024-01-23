@@ -30,6 +30,7 @@ Users should be able to:
 ![image](https://github.com/takam3g/multi-step-form/assets/84117994/75934180-66a4-4c9b-96f6-e12b3d2fefff)
 
 [Demo]
+
 https://github.com/takam3g/todo-app/assets/84117994/851ca1b4-57cf-441e-90c4-5f43e049bd19
 
 ### Links
